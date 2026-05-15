@@ -1,0 +1,5 @@
+![[Game Concept#Game Concept]]  
+![[Core Mechanics#Core Mechanics]]  
+![[Story and Setting#Story and Setting]]  
+![[Art Style and Visuals#Art Style and Visuals]]  
+![[Inspirations#Inspirations]]
