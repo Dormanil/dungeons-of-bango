@@ -16,3 +16,6 @@ something) made the world inhabitable, and the only solution the partner
 found was to trap keep them alive forever and hooking up their mind to a 
 fantasy world where they could be happy. I’m planning for multiple endings 
 depending on the player’s actions.
+
+![[Carther having a nap.png]]
+(Rough way I visualize the reality of the situation.)
