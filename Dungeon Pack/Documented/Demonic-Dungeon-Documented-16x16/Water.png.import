@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d11u2tc7gjkqt"
-path="res://.godot/imported/Water.png-60d4c4efe2c52db3ea7ff557a164ccf0.ctex"
+path="res://.godot/imported/Water.png-b063e8a81798671b8ee3a5f0209decfd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Dungeon Pack/Demonic-Dungeon-Documented-16x16/Water.png"
-dest_files=["res://.godot/imported/Water.png-60d4c4efe2c52db3ea7ff557a164ccf0.ctex"]
+source_file="res://Dungeon Pack/Documented/Demonic-Dungeon-Documented-16x16/Water.png"
+dest_files=["res://.godot/imported/Water.png-b063e8a81798671b8ee3a5f0209decfd.ctex"]
 
 [params]
 

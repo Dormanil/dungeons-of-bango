@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bkxm2oe3wqwg4"
-path="res://.godot/imported/Building-Exterior.png-6e2d283fa57f41d5d58bb62beb64eb71.ctex"
+path="res://.godot/imported/Building-Exterior.png-2e52c624dc211caad4e41032049a35bf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Dungeon Pack/Demonic-Dungeon-Building-Interior-Documented-16x16/Building-Exterior.png"
-dest_files=["res://.godot/imported/Building-Exterior.png-6e2d283fa57f41d5d58bb62beb64eb71.ctex"]
+source_file="res://Dungeon Pack/Documented/Demonic-Dungeon-Building-Interior-Documented-16x16/Building-Exterior.png"
+dest_files=["res://.godot/imported/Building-Exterior.png-2e52c624dc211caad4e41032049a35bf.ctex"]
 
 [params]
 

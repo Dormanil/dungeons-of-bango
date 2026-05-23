@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2wutllsrw6rh"
-path="res://.godot/imported/Mockup-3.png-232e4918d9320c21ce2e951f01c5ad04.ctex"
+path="res://.godot/imported/Mockup-3.png-a38889ef9b087cd6e30e2147b1ea54f3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Dungeon Pack/Demonic-Dungeon-Frozen-Cavern-Examples/Mockup-3.png"
-dest_files=["res://.godot/imported/Mockup-3.png-232e4918d9320c21ce2e951f01c5ad04.ctex"]
+source_file="res://Dungeon Pack/Examples/Demonic-Dungeon-Frozen-Cavern-Examples/Mockup-3.png"
+dest_files=["res://.godot/imported/Mockup-3.png-a38889ef9b087cd6e30e2147b1ea54f3.ctex"]
 
 [params]
 

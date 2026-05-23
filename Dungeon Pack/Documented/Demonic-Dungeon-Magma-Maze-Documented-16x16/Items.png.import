@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cygjyplqbkpkd"
-path="res://.godot/imported/Items.png-24437f0ef3caff360d671eed10f2245d.ctex"
+path="res://.godot/imported/Items.png-bfd5996328958a27de227b2a558f3d7f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Dungeon Pack/Demonic-Dungeon-Magma-Maze-Documented-16x16/Items.png"
-dest_files=["res://.godot/imported/Items.png-24437f0ef3caff360d671eed10f2245d.ctex"]
+source_file="res://Dungeon Pack/Documented/Demonic-Dungeon-Magma-Maze-Documented-16x16/Items.png"
+dest_files=["res://.godot/imported/Items.png-bfd5996328958a27de227b2a558f3d7f.ctex"]
 
 [params]
 

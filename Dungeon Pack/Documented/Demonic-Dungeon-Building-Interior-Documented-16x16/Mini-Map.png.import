@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3dqikvd6arlu"
-path="res://.godot/imported/Mini-Map.png-dba10d1b91b28448b35fcd2418ee68c1.ctex"
+path="res://.godot/imported/Mini-Map.png-97f5e934046cbfaba41073e3a13e26a0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Dungeon Pack/Demonic-Dungeon-Building-Interior-Documented-16x16/Mini-Map.png"
-dest_files=["res://.godot/imported/Mini-Map.png-dba10d1b91b28448b35fcd2418ee68c1.ctex"]
+source_file="res://Dungeon Pack/Documented/Demonic-Dungeon-Building-Interior-Documented-16x16/Mini-Map.png"
+dest_files=["res://.godot/imported/Mini-Map.png-97f5e934046cbfaba41073e3a13e26a0.ctex"]
 
 [params]
 

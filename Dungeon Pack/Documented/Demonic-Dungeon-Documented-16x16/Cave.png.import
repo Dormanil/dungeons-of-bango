@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dk0q4hyhbyrr3"
-path="res://.godot/imported/Cave.png-b5763a978ccc8f4a2966b9c96e817c03.ctex"
+path="res://.godot/imported/Cave.png-ddd40245ebb0aa060af704d92745b644.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Dungeon Pack/Demonic-Dungeon-Documented-16x16/Cave.png"
-dest_files=["res://.godot/imported/Cave.png-b5763a978ccc8f4a2966b9c96e817c03.ctex"]
+source_file="res://Dungeon Pack/Documented/Demonic-Dungeon-Documented-16x16/Cave.png"
+dest_files=["res://.godot/imported/Cave.png-ddd40245ebb0aa060af704d92745b644.ctex"]
 
 [params]
 

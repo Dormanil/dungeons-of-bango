@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxmotjko1qw1w"
-path="res://.godot/imported/Water.png-dea3f9f31cdcbccb659384f766d8f66c.ctex"
+path="res://.godot/imported/Water.png-d065e897467989162214a9747f84a7be.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Dungeon Pack/Demonic-Dungeon-Haunted-Temple-Documented-16x16/Water.png"
-dest_files=["res://.godot/imported/Water.png-dea3f9f31cdcbccb659384f766d8f66c.ctex"]
+source_file="res://Dungeon Pack/Documented/Demonic-Dungeon-Haunted-Temple-Documented-16x16/Water.png"
+dest_files=["res://.godot/imported/Water.png-d065e897467989162214a9747f84a7be.ctex"]
 
 [params]
 

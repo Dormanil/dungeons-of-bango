@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ki8wlf04n1yd"
-path="res://.godot/imported/Demonic-Dungeon-Palette-Visual-Ref.png-24d15550f82c653ccb98950784bc4258.ctex"
+path="res://.godot/imported/Demonic-Dungeon-Palette-Visual-Ref.png-28b9d467cabfb5bc46937e900b35aeea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Dungeon Pack/Demonic-Dungeon-Haunted-Temple-Documented-16x16/Palette/Demonic-Dungeon-Palette-Visual-Ref.png"
-dest_files=["res://.godot/imported/Demonic-Dungeon-Palette-Visual-Ref.png-24d15550f82c653ccb98950784bc4258.ctex"]
+source_file="res://Dungeon Pack/Documented/Demonic-Dungeon-Haunted-Temple-Documented-16x16/Palette/Demonic-Dungeon-Palette-Visual-Ref.png"
+dest_files=["res://.godot/imported/Demonic-Dungeon-Palette-Visual-Ref.png-28b9d467cabfb5bc46937e900b35aeea.ctex"]
 
 [params]
 

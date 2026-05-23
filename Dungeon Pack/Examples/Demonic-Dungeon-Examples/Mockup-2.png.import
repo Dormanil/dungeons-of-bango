@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3dd88uf3yjb1"
-path="res://.godot/imported/Mockup-2.png-b79005ad8edaf0480a9fd82883f9cbfd.ctex"
+path="res://.godot/imported/Mockup-2.png-4b526c6c93340d0d04d68bf29fa9254e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Dungeon Pack/Demonic-Dungeon-Examples/Mockup-2.png"
-dest_files=["res://.godot/imported/Mockup-2.png-b79005ad8edaf0480a9fd82883f9cbfd.ctex"]
+source_file="res://Dungeon Pack/Examples/Demonic-Dungeon-Examples/Mockup-2.png"
+dest_files=["res://.godot/imported/Mockup-2.png-4b526c6c93340d0d04d68bf29fa9254e.ctex"]
 
 [params]
 

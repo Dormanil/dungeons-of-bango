@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dyslnub71m66r"
-path="res://.godot/imported/Heroes.png-eb7acbd9633cbef8daa2fb7a980a5dd4.ctex"
+path="res://.godot/imported/Heroes.png-ec482ff6bda947ca5cae54504d6678ae.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Dungeon Pack/Demonic-Dungeon-Arid-Underground-Documented-16x16/Heroes.png"
-dest_files=["res://.godot/imported/Heroes.png-eb7acbd9633cbef8daa2fb7a980a5dd4.ctex"]
+source_file="res://Dungeon Pack/Documented/Demonic-Dungeon-Arid-Underground-Documented-16x16/Heroes.png"
+dest_files=["res://.godot/imported/Heroes.png-ec482ff6bda947ca5cae54504d6678ae.ctex"]
 
 [params]
 

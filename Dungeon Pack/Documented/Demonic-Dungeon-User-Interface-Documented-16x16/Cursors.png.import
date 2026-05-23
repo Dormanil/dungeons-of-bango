@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cu4j6n67ftq3t"
-path="res://.godot/imported/Cursors.png-2f2742cc9c2580773e420465eab20740.ctex"
+path="res://.godot/imported/Cursors.png-62ecc5bfea89e7de03cdfc3c78210e28.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Dungeon Pack/Demonic-Dungeon-User-Interface-Documented-16x16/Cursors.png"
-dest_files=["res://.godot/imported/Cursors.png-2f2742cc9c2580773e420465eab20740.ctex"]
+source_file="res://Dungeon Pack/Documented/Demonic-Dungeon-User-Interface-Documented-16x16/Cursors.png"
+dest_files=["res://.godot/imported/Cursors.png-62ecc5bfea89e7de03cdfc3c78210e28.ctex"]
 
 [params]
 

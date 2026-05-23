@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dm3bwp8qt3tvx"
-path="res://.godot/imported/Mini-Map.png-a45cf6f82ec71734006366b3437250ed.ctex"
+path="res://.godot/imported/Mini-Map.png-900cd57ddc320c268ea6c9c5de1c6341.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Dungeon Pack/Demonic-Dungeon-Arid-Underground-Documented-16x16/Mini-Map.png"
-dest_files=["res://.godot/imported/Mini-Map.png-a45cf6f82ec71734006366b3437250ed.ctex"]
+source_file="res://Dungeon Pack/Documented/Demonic-Dungeon-Arid-Underground-Documented-16x16/Mini-Map.png"
+dest_files=["res://.godot/imported/Mini-Map.png-900cd57ddc320c268ea6c9c5de1c6341.ctex"]
 
 [params]
 
